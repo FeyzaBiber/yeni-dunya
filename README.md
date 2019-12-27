@@ -1,2 +1,3 @@
 # yeni-dunya
 Başka Bir Repository işte
+bla bla bla kendinden bahset biraz vesaire vesaire...
